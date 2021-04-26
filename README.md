@@ -1,3 +1,9 @@
-A Survey Form Project
+This is my Survey Form Project
 
-Part of freeCodeCamp Responsive Design Projets Portfolio Series
+It is the 2nd project in FCC Responsive Website Design Module
+
+You can see this project live at the following URL:
+
+https://dave-thompson-59.github.io/survey_form/
+
+Enjoy!
