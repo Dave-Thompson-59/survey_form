@@ -4,6 +4,6 @@ It is the 2nd project in FCC Responsive Website Design Module
 
 You can see this project live at the following URL:
 
-https://davethompson-dev.github.io/survey_form/
+https://davethompson-Coder.github.io/survey_form/
 
 Enjoy!
